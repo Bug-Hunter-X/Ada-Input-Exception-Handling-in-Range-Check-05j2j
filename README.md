@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Ada programming: neglecting exception handling during input. The program checks if a number is within a specific range, but it lacks error handling for non-numeric input.  The solution demonstrates how to gracefully handle exceptions using Ada's exception handling mechanism.
